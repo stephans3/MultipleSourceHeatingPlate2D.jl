@@ -1,0 +1,5 @@
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PlotlyJS = "f0f68f2c-4968-5e81-91da-67840de0976a"
+Sundials = "c3572dad-4567-51f8-b174-8c6c989267f4"
