@@ -51,7 +51,7 @@ const Δx₂ = H/N₂;
 const x1span = Δx₁/2 : Δx₁ : L; # Coordinates of cell centers
 const x2span = Δx₂/2 : Δx₂ : H;
 
-# Heat transer + radiation
+# Heat transfer + radiation
 const h = 10.0             # Heat transfer coefficient
 const ϵ = 0.6;             # Emissivity
 const sb = 5.67*10^(-8);   # Stefan-Boltzmann constant
